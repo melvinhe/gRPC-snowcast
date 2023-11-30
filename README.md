@@ -11,7 +11,7 @@ The primary objective of this project is to develop a Snowcast music application
 If time permits, we aspire to establish a proxy for enhancing communication between the frontend and backend. This would enable our gRPC snowcast implementation to seamlessly integrate with a React app. As a reach goal, we aim to empower users to select, send, and listen to music through a user-friendly React interface, departing from the terminal-based interaction.
 
 ## Tools, Languages, and Libraries
-- **Primary Languages**: GoLang for snowcast music server functionalities, and potentially TypeScript/JavaScript for the React frontend.
+- **Primary Languages**: Python or GoLang for snowcast music server functionalities, and potentially TypeScript/JavaScript for the React frontend.
 - **Communication & Serialization**: gRPC and Protobuf for backend communication and message serialization/deserialization.
 - **Frontend Framework**: Considering React for the frontend framework, integrating gRPC for backend communication and Protobuf for defining message formats. Python is also under consideration.
 
